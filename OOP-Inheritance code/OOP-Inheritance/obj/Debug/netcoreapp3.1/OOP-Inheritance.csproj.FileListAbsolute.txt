@@ -1,0 +1,14 @@
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\bin\Debug\netcoreapp3.1\OOP-Inheritance.exe
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\bin\Debug\netcoreapp3.1\OOP-Inheritance.deps.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\bin\Debug\netcoreapp3.1\OOP-Inheritance.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\bin\Debug\netcoreapp3.1\OOP-Inheritance.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\bin\Debug\netcoreapp3.1\OOP-Inheritance.dll
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\bin\Debug\netcoreapp3.1\OOP-Inheritance.pdb
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.dll
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.pdb
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\OOP-Inheritance C#\OOP-Inheritance\OOP-Inheritance\obj\Debug\netcoreapp3.1\OOP-Inheritance.genruntimeconfig.cache

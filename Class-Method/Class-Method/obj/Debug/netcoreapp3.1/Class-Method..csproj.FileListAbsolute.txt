@@ -1,0 +1,14 @@
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\bin\Debug\netcoreapp3.1\Class-Method..exe
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\bin\Debug\netcoreapp3.1\Class-Method..deps.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\bin\Debug\netcoreapp3.1\Class-Method..runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\bin\Debug\netcoreapp3.1\Class-Method..runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\bin\Debug\netcoreapp3.1\Class-Method..dll
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\bin\Debug\netcoreapp3.1\Class-Method..pdb
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..dll
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..pdb
+C:\Users\OMEN\OneDrive\İş masası\HOMEWORK\C#\Class-Method.C#\Class-Method\Class-Method\obj\Debug\netcoreapp3.1\Class-Method..genruntimeconfig.cache
